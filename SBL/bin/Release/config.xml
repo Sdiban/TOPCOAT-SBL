@@ -1,0 +1,10 @@
+<configuration>
+  <parameters>
+    <server-name>190.13.64.148</server-name>
+    <db-name>sbl_tds</db-name>
+    <user-name>sbl</user-name>
+    <password>M*vmtlV5tAe.e*8a</password>        
+    <port-name>1</port-name>
+  </parameters>
+</configuration>
+

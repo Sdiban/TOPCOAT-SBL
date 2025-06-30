@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SBL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\sbl\\frmmantcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|solutionrelative:sbl\\frmmantcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\sbl\\frmmantcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|solutionrelative:sbl\\frmmantcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\sbl\\frmmantproveedor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|solutionrelative:sbl\\frmmantproveedor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\sbl\\frmmantproveedor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|solutionrelative:sbl\\frmmantproveedor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44075E96-8E92-463F-808D-EF788BE6AB10}|SBL\\SBL.vbproj|c:\\users\\diban\\documents\\github\\sbl-base-pc\\sbl\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SBL",
+              "DocumentMoniker": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\SBL.vbproj",
+              "RelativeDocumentMoniker": "SBL\\SBL.vbproj",
+              "ToolTip": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\SBL.vbproj",
+              "RelativeToolTip": "SBL\\SBL.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-26T12:34:15.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMantCliente.vb",
+              "DocumentMoniker": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\frmMantCliente.vb",
+              "RelativeDocumentMoniker": "SBL\\frmMantCliente.vb",
+              "ToolTip": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\frmMantCliente.vb",
+              "RelativeToolTip": "SBL\\frmMantCliente.vb",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAjwGcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T12:25:27.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMantCliente.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\frmMantCliente.vb",
+              "RelativeDocumentMoniker": "SBL\\frmMantCliente.vb",
+              "ToolTip": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\frmMantCliente.vb [Dise\u00F1o]",
+              "RelativeToolTip": "SBL\\frmMantCliente.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T12:25:23.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMantProveedor.vb",
+              "DocumentMoniker": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\frmMantProveedor.vb",
+              "RelativeDocumentMoniker": "SBL\\frmMantProveedor.vb",
+              "ToolTip": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\frmMantProveedor.vb",
+              "RelativeToolTip": "SBL\\frmMantProveedor.vb",
+              "ViewState": "AQIAADYAAAAAAAAAAAAewM4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T12:24:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMantProveedor.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\frmMantProveedor.vb",
+              "RelativeDocumentMoniker": "SBL\\frmMantProveedor.vb",
+              "ToolTip": "C:\\Users\\diban\\Documents\\GitHub\\SBL-BASE-PC\\SBL\\frmMantProveedor.vb [Dise\u00F1o]",
+              "RelativeToolTip": "SBL\\frmMantProveedor.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T12:24:26.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
